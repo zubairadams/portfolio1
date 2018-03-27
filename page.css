@@ -29,10 +29,21 @@ padding: 1em;
   width: 250px;
   padding: 1em;
 }
+.scrpt{
+  padding-left: 35%;
+}
+.html{
+  padding-left: 9%;
+}
 .java{
   width: 250px;
   padding-left: 10%;
 }
+.htm{
+  width: 100%;
+}
+.k{  width: 250px;
+  padding-left: 9%;}
 .art{
   padding-left: 10%;
   display: inline-block;
@@ -51,4 +62,8 @@ padding: 1em;
   padding-left: 1em;
   float: left;
   width: 250px;
+}
+.cv{
+  padding-left: 10%;
+  width: 80%;
 }
