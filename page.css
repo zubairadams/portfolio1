@@ -2,8 +2,41 @@
   margin-left: 2em;
   border-radius: 12%;
 }
-
-.heads{
+.headding{ 
+  background-color: rgb(65, 65, 65);
+display: inline-block;
+width: 100%;
+color: white;
+height: 15%;
+}
+.info{
+  margin-left: 30%;
+  
+}
+.personal{
+border-left-color:  rgb(65, 65, 65);
+border-style: groove;
+margin: 0.5em;
+}
+.text{
+  margin-left: 20%;
+}
+.links{
+  background-color: rgb(65, 65, 65); 
+  font-size: 3em;
+}
+.link{
+  margin-left: 20%;
+}
+.boot{
+  display: inline;
+  
+}
+.other_boot{
+  display: inline;
+  float: left;
+}
+/* .heads{
   width:300px;
 float: left;
 padding-left: 2em;
@@ -14,11 +47,7 @@ padding-left: 2em;
 .backend{
   width: 250px;
 }
-.section1{
-  padding-left: 35%;
-display: inline-block;
-width: 50%;
-}
+
 .moreme{
   margin-left: ;
   padding-left: 10%;
@@ -30,7 +59,6 @@ width: 50%;
 .img3{
   float: left;
 width: 300px;
-padding-left: 10px;
 }
 .img4{
   padding-left:0;
@@ -73,19 +101,24 @@ padding: 1em;
 }
 
 .fact1{
+  padding-right: 1em;
   float: left;
   width: 250px;
 }
 .fact2{
+  padding-right: 1em;
   float: left;
   width: 250px;
 }
 .fact3{
+  margin-left: 1em;
   padding-left: 2em;
   float: left;
   width: 250px;
 }
 .cv{
+  height: 5em;
+  background-color: black;
   padding-left: 10%;
-  width: 80%;
-}
+  width: 100%;
+} */
